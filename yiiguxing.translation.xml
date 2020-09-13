@@ -1,0 +1,35 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Channel Duplex Handler" />
+      <item value="offload" />
+      <item value="channel Inactive" />
+      <item value="quotient" />
+      <item value="imposed" />
+      <item value="inconsistent" />
+      <item value="keys" />
+      <item value="that" />
+      <item value="compare" />
+      <item value="mathematically" />
+      <item value="misleadingly" />
+      <item value="recover Abnormally" />
+      <item value="reconfigurable" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="030bd8a569bd644c" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
